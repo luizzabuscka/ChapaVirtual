@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772610781568",
+    "firebase_url": "https://chapa-virtual.firebaseio.com",
+    "project_id": "chapa-virtual",
+    "storage_bucket": "chapa-virtual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772610781568:android:9e1a7e0049c273e6575165",
+        "android_client_info": {
+          "package_name": "com.ccr.hackaton.chapavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772610781568-aeqtmiekededbr35qosnrgscu4j968le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqVo7aG9TwB7Qt70Hp7Pyk0aRZgXXNfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772610781568-aeqtmiekededbr35qosnrgscu4j968le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
